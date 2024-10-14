@@ -2,14 +2,14 @@
     <div class="container p-sm-0">
         <div class="row">
             <div class="card join__card">
-                <img src="assets/img/BG-Element.png" class="img-fluid join__card-img" alt="image">
+                <img src="{{ asset('assets/img/BG-Element.png') }}" class="img-fluid join__card-img" alt="image">
                 <div class="card-img-overlay join__card-layer">
                     <div class="col-11 col-md-7">
-                        <h3 class="join__text global__text">Become a volenteer</h3>
-                        <h2 class="join__heading global__heading">Join Your hand with us for a better life and
-                            future
+                        <h3 class="join__text global__text">Looking for an outreach</h3>
+                        <h2 class="join__heading global__heading">
+                            Contact us today to request a medical outreach for you community 
                         </h2>
-                        <button class="join__card-layer--btn global__btn">Discover More</button>
+                        <button class="join__card-layer--btn global__btn">Request Now</button>
                     </div>
                 </div>
             </div>
@@ -17,12 +17,14 @@
     </div>
 </div>
 
+
+
 <div class="footer">
     <div class="container p-sm-0">
         <div class="row justify-content-between">
             <div class="col-12 col-md-6 col-lg-4 col-xl-3">
                 <a href="/">
-                    <img class="img-fluid rounded" src="assets/img/logo-footer.png" alt="logo">
+                    <img class="img-fluid rounded" src="{{ asset('assets/img/logo-footer.png') }}" alt="logo">
 
                 </a>
                 <p class="global__desc footer__desc">
@@ -108,17 +110,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-12 col-md-6 col-xl-4 mt-md-5 mt-xl-0">
-                <h4 class="footer__sub">Subscribe Newsletter</h4>
-                <p class="global__desc footer__desc">
-                    Join our community of vision champions and receive the latest
-                    updates on our work, success stories and eye health tips.
-                </p>
-                <form action="#" method="POST" class="d-flex position-relative">
-                    <input class="footer__inp form-control" type="text" placeholder="Enter your email">
-                    <button class="global__btn footer__inp-btn">subscribe</button>
-                </form>
-            </div>
+         
         </div>
         <hr class="footer__border">
         <div class="row">

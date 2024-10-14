@@ -42,4 +42,23 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
         'password' => 'hashed',
     ];
+
+
+    public function canManageBinshopsBlogPosts()
+    {
+        // Enter the logic needed for your app.
+        // Maybe you can just hardcode in a user id that you
+        //   know is always an admin ID?
+
+        if ($this->id == 1){
+           // return true so this user CAN edit/post/delete
+           // blog posts (and post any HTML/JS)
+           return true;
+        }
+        // otherwise return false, so they have no access
+        // to the admin panel (but can still view posts)
+        return false;
+    }
+
+
 }

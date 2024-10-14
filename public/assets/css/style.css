@@ -14508,7 +14508,7 @@ ul > li {
   text-decoration: none;
   border: 1px solid transparent;
   color: #fff !important;
-  background: #00715D !important;
+  background: #2b4c6e !important;
   font-family: "Inter", sans-serif;
   font-size: 16px !important;
   font-weight: 500;
@@ -14522,9 +14522,9 @@ ul > li {
 .global__btn:hover {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  color: #00715D !important;
+  color: #2b4c6e !important;
   background: #fff !important;
-  border: 1px solid #00715D;
+  border: 1px solid #2b4c6e;
 }
 .global__btn-arrow {
   position: relative;
@@ -14558,7 +14558,7 @@ ul > li {
   transition: all 0.3s linear;
 }
 .global__arrow-default:hover {
-  color: #00715D;
+  color: #2b4c6e;
   border: 1px solid #CCE3DF !important;
   -webkit-box-shadow: none !important;
           box-shadow: none !important;
@@ -14625,7 +14625,7 @@ ul > li {
 }
 .global__icon-white {
   background: rgba(0, 113, 93, 0.1) !important;
-  color: #00715D;
+  color: #2b4c6e;
 }
 .global__icon-wmedium {
   border: 1px solid #E6F1EF;
@@ -14633,7 +14633,7 @@ ul > li {
   background: linear-gradient(180deg, rgba(0, 113, 93, 0.1) 0%, rgba(0, 113, 93, 0) 100%);
 }
 .global__icon-green {
-  background: #00715D;
+  background: #2b4c6e;
   color: #fff;
 }
 .global__white {
@@ -14664,7 +14664,7 @@ ul > li {
 }
 
 .slick-dots .slick-active {
-  background: #00715D;
+  background: #2b4c6e;
 }
 
 .slick-dots li {
@@ -14685,7 +14685,7 @@ ul > li {
   width: 40px;
   height: 40px;
   border-radius: 100px;
-  background: #00715D;
+  background: #2b4c6e;
   color: #fff;
   border: none;
   cursor: pointer;
@@ -14749,7 +14749,7 @@ ul > li {
   border: 0 !important;
   -webkit-box-shadow: none !important;
           box-shadow: none !important;
-  color: #00715D !important;
+  color: #2b4c6e !important;
   font-size: 22px;
 }
 .menu__list {
@@ -14827,7 +14827,7 @@ ul > li {
   text-transform: capitalize;
 }
 .menu__list-link:hover {
-  color: #00715D !important;
+  color: #2b4c6e !important;
 }
 @media screen and (min-width: 992px) {
   .menu__list-link {
@@ -14840,7 +14840,7 @@ ul > li {
   }
 }
 .menu__list-link--active {
-  color: #00715D !important;
+  color: #2b4c6e !important;
 }
 .menu__btn {
   margin: 0 0;
@@ -14866,10 +14866,10 @@ ul > li {
 }
 .menu__btn-in {
   width: 100%;
-  color: #00715D !important;
+  color: #2b4c6e !important;
   border-radius: 8px;
   text-transform: capitalize;
-  border: 1px solid #00715D !important;
+  border: 1px solid #2b4c6e !important;
   background: #fff !important;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -14878,7 +14878,7 @@ ul > li {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
   color: #fff !important;
-  background: #00715D !important;
+  background: #2b4c6e !important;
 }
 @media screen and (min-width: 992px) {
   .menu__btn-in {
@@ -14889,17 +14889,17 @@ ul > li {
 .menu__btn-up {
   width: 100%;
   color: #fff !important;
-  background: #00715D !important;
+  background: #2b4c6e !important;
   border-radius: 8px;
   text-transform: capitalize;
-  border: 1px solid #00715D !important;
+  border: 1px solid #2b4c6e !important;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
 }
 .menu__btn-up:hover {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
-  color: #00715D !important;
+  color: #2b4c6e !important;
   background: #fff !important;
 }
 @media screen and (min-width: 992px) {
@@ -14914,7 +14914,7 @@ ul > li {
   background: #CCE3DF;
 }
 .menu ::-webkit-scrollbar-thumb {
-  background: #00715D;
+  background: #2b4c6e;
   border-radius: 5px;
 }
 
@@ -14983,7 +14983,7 @@ ul > li {
   padding: 20px 0 96px 0;
 }
 .hero__two-i {
-  color: #00715D;
+  color: #2b4c6e;
   background: #fff;
   margin: 0 8px 0 0;
   padding: 6px;
@@ -15073,7 +15073,7 @@ ul > li {
   color: #EAECF0 !important;
 }
 .hero__three-i {
-  color: #00715D;
+  color: #2b4c6e;
   background: #EAECF0;
   margin: 0 8px 0 0;
   height: 24px;
@@ -15109,7 +15109,7 @@ ul > li {
   max-width: 337px;
 }
 .hero__three-box--num {
-  color: #00715D;
+  color: #2b4c6e;
   font-family: "Inter", sans-serif;
   font-size: 19px;
   font-weight: 600;
@@ -15133,7 +15133,7 @@ ul > li {
   height: 8px;
 }
 .hero__three-progress--bar {
-  background: #00715D;
+  background: #2b4c6e;
 }
 
 .hero__banner-bg {
@@ -15255,7 +15255,7 @@ ul > li {
   font-family: "Inter", sans-serif;
   font-size: 20px;
   font-weight: 600;
-  background: #00715D;
+  background: #2b4c6e;
   color: #fff;
   border-radius: 100%;
   width: 64px;
@@ -15314,7 +15314,7 @@ ul > li {
 }
 .hero__four .swiper-pagination-bullet-active {
   opacity: 1 !important;
-  border: 2px solid #00715D !important;
+  border: 2px solid #2b4c6e !important;
 }
 
 .cases {
@@ -15341,8 +15341,8 @@ ul > li {
 }
 .cases__btn {
   margin: 48px 0 0 0;
-  border: 1px solid #00715D;
-  color: #00715D;
+  border: 1px solid #2b4c6e;
+  color: #2b4c6e;
   background: transparent;
   text-transform: capitalize;
   font-family: "Inter", sans-serif;
@@ -15356,7 +15356,7 @@ ul > li {
 .cases__btn:hover {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  background: #00715D;
+  background: #2b4c6e;
   color: #fff;
 }
 .cases__card {
@@ -15397,7 +15397,7 @@ ul > li {
 .cases__card-title:hover {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  color: #00715D !important;
+  color: #2b4c6e !important;
 }
 @media screen and (min-width: 568px) {
   .cases__card-title {
@@ -15497,7 +15497,7 @@ ul > li {
 }
 .cases__card-range--dollar {
   background: #DAEBE8;
-  color: #00715D;
+  color: #2b4c6e;
   padding: 7px 10px;
   border-radius: 50px;
   width: 36px;
@@ -15840,7 +15840,7 @@ ul > li {
   -webkit-transition: all 0.2s linear !important;
   transition: all 0.2s linear !important;
   border: 2px solid #fff;
-  background: #00715D !important;
+  background: #2b4c6e !important;
 }
 .service__card:hover .service__card-heading {
   -webkit-transition: all 0.2s linear !important;
@@ -15873,7 +15873,7 @@ ul > li {
 .service__card-icon {
   -webkit-transition: all 0.2s linear !important;
   transition: all 0.2s linear !important;
-  background: #00715D;
+  background: #2b4c6e;
 }
 .service__card-icon2 {
   -webkit-transition: all 0.2s linear !important;
@@ -15925,7 +15925,7 @@ ul > li {
 .service2__card:hover {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  background: #00715D;
+  background: #2b4c6e;
 }
 .service2__card:hover .service2__card-boxshow {
   display: none;
@@ -16048,7 +16048,7 @@ ul > li {
   }
 }
 .org__li-img {
-  background: #00715D;
+  background: #2b4c6e;
   border-radius: 100px;
   padding: 15px;
   margin: 0 20px 0 0;
@@ -16075,7 +16075,7 @@ ul > li {
 }
 
 .num {
-  background: #00715D;
+  background: #2b4c6e;
   background-image: url(../img/back-drop.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -16251,7 +16251,7 @@ ul > li {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
   border: 2px solid #fff;
-  background: #00715D !important;
+  background: #2b4c6e !important;
 }
 .testimonial__card:hover .testimonial__card-name {
   -webkit-transition: all 0.2s linear;
@@ -16378,7 +16378,7 @@ ul > li {
 .team__user:hover {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  color: #00715D !important;
+  color: #2b4c6e !important;
 }
 .team__cate {
   margin: 12px 0 0 0;
@@ -16463,8 +16463,8 @@ ul > li {
 }
 .blog__btn {
   margin: 48px 0 0 0;
-  border: 1px solid #00715D;
-  color: #00715D;
+  border: 1px solid #2b4c6e;
+  color: #2b4c6e;
   background: transparent;
   text-transform: capitalize;
   font-family: "Inter", sans-serif;
@@ -16478,7 +16478,7 @@ ul > li {
 .blog__btn:hover {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  background: #00715D;
+  background: #2b4c6e;
   color: #fff;
 }
 .blog__body-arrow--left {
@@ -16534,7 +16534,7 @@ ul > li {
 .blog__title:hover {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  color: #00715D !important;
+  color: #2b4c6e !important;
 }
 @media screen and (min-width: 568px) {
   .blog__title {
@@ -16632,7 +16632,7 @@ ul > li {
 .blog__detail-box {
   background: #F2F8F7;
   border-radius: 20px;
-  border-left: 2px solid #00715D;
+  border-left: 2px solid #2b4c6e;
   padding: 22px;
   margin: 30px 0 0 0;
 }
@@ -16991,7 +16991,7 @@ ul > li {
 }
 .collection__list-icon {
   background: #fff;
-  color: #00715D;
+  color: #2b4c6e;
   border-radius: 50px;
   width: 40px;
   height: 40px;
@@ -17029,7 +17029,7 @@ ul > li {
 .news__card-title:hover {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  color: #00715D !important;
+  color: #2b4c6e !important;
 }
 @media screen and (min-width: 1200px) {
   .news__card-title {
@@ -17205,7 +17205,7 @@ ul > li {
 .donation__video-waves--player {
   cursor: pointer;
   font-size: 40px;
-  color: #00715D;
+  color: #2b4c6e;
   border-radius: 100px;
   padding: 8px;
 }
@@ -17430,8 +17430,8 @@ ul > li {
 }
 .gallery__btn {
   margin: 48px 0 0 0;
-  border: 1px solid #00715D;
-  color: #00715D;
+  border: 1px solid #2b4c6e;
+  color: #2b4c6e;
   background: transparent;
   text-transform: capitalize;
   font-family: "Inter", sans-serif;
@@ -17445,7 +17445,7 @@ ul > li {
 .gallery__btn:hover {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  background: #00715D;
+  background: #2b4c6e;
   color: #fff;
 }
 
@@ -17521,7 +17521,7 @@ ul > li {
   -webkit-transition: all 0.2s linear !important;
   transition: all 0.2s linear !important;
   border: 2px solid #fff;
-  background: #00715D !important;
+  background: #2b4c6e !important;
 }
 .mission__card:hover .mission__card-heading {
   -webkit-transition: all 0.2s linear !important;
@@ -17771,7 +17771,7 @@ ul > li {
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
   border: 2px solid #fff;
-  background: #00715D !important;
+  background: #2b4c6e !important;
 }
 .support__card:hover .support__card-heading {
   -webkit-transition: all 0.2s linear;
@@ -17821,7 +17821,7 @@ ul > li {
 }
 .education__price-show {
   font-size: 24px !important;
-  color: #00715D !important;
+  color: #2b4c6e !important;
 }
 .education__para {
   font-family: "Inter", sans-serif;
@@ -17972,7 +17972,7 @@ ul > li {
 .education__cases-list--link:hover {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
-  color: #00715D !important;
+  color: #2b4c6e !important;
 }
 @media screen and (min-width: 1200px) {
   .education__cases-list--link {
@@ -17995,7 +17995,7 @@ ul > li {
 .education__cases-list--tag:hover {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
-  border: 1px solid #00715D !important;
+  border: 1px solid #2b4c6e !important;
 }
 .education__cases-list--date {
   font-family: "Inter", sans-serif;
@@ -18012,7 +18012,7 @@ ul > li {
   padding: 24px;
   margin-top: 50px;
   position: relative;
-  border-top: 5px solid #00715D;
+  border-top: 5px solid #2b4c6e;
 }
 .form__dialog {
   max-width: 846px !important;
@@ -18098,7 +18098,7 @@ ul > li {
 .form__input:focus {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
-  border: 1px solid #00715D !important;
+  border: 1px solid #2b4c6e !important;
 }
 .form__small {
   font-family: "Inter", sans-serif;
@@ -18336,7 +18336,7 @@ input:checked ~ .form__ul-label--checkmark::after {
   width: 20px;
   background-color: #fff;
   border-radius: 50%;
-  border: 2px solid #00715D;
+  border: 2px solid #2b4c6e;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -18359,7 +18359,7 @@ input:checked ~ .form__ul-label--checkmark::after {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #00715D;
+  background: #2b4c6e;
 }
 @media screen and (min-width: 1400px) {
   .form__ul-label--checkmark---left {
@@ -18587,7 +18587,7 @@ input:checked ~ .form__ul-label--checkmark::after {
 }
 
 .social__body {
-  background: #00715D;
+  background: #2b4c6e;
   border-radius: 30px;
   padding: 0 20px;
   height: 268px;
@@ -19010,7 +19010,7 @@ input:checked ~ .sign__form-rem--checkmark::after {
   width: 16px;
   background-color: #fff;
   border-radius: 4px;
-  border: 2px solid #00715D;
+  border: 2px solid #2b4c6e;
 }
 .sign__form-rem--checkmark::after {
   content: "";
@@ -19021,7 +19021,7 @@ input:checked ~ .sign__form-rem--checkmark::after {
   width: 7px !important;
   height: 7px !important;
   border-radius: 2px !important;
-  background: #00715D;
+  background: #2b4c6e;
 }
 .sign__form-input {
   font-family: "Inter", sans-serif;
@@ -19040,10 +19040,10 @@ input:checked ~ .sign__form-rem--checkmark::after {
 .sign__form-input:focus {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
-  border: 1px solid #00715D !important;
+  border: 1px solid #2b4c6e !important;
 }
 .sign__form-link {
-  color: #00715D !important;
+  color: #2b4c6e !important;
   text-decoration: none;
   font-family: "Inter", sans-serif;
   font-size: 13px;
@@ -19082,10 +19082,10 @@ input:checked ~ .sign__form-rem--checkmark::after {
 }
 .sign__btn-up {
   margin: 16px 0 30px 0;
-  color: #00715D !important;
+  color: #2b4c6e !important;
   border-radius: 8px;
   text-transform: capitalize;
-  border: 1px solid #00715D !important;
+  border: 1px solid #2b4c6e !important;
   background: #fff !important;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -19094,7 +19094,7 @@ input:checked ~ .sign__form-rem--checkmark::after {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
   color: #fff !important;
-  background: #00715D !important;
+  background: #2b4c6e !important;
 }
 @media screen and (min-width: 992px) {
   .sign__btn-up {
@@ -19108,17 +19108,17 @@ input:checked ~ .sign__form-rem--checkmark::after {
 }
 .sign__btn-in {
   color: #fff !important;
-  background: #00715D !important;
+  background: #2b4c6e !important;
   border-radius: 8px;
   text-transform: capitalize;
-  border: 1px solid #00715D !important;
+  border: 1px solid #2b4c6e !important;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
 }
 .sign__btn-in:hover {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
-  color: #00715D !important;
+  color: #2b4c6e !important;
   background: #fff !important;
 }
 @media screen and (min-width: 992px) {

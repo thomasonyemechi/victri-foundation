@@ -29,7 +29,7 @@
                         healthy one.
                     </p>
                 </div>
-                <div class="col-12 col-md-5 d-none d-lg-block">
+                <div class="col-12 col-md-5 d-lg-block">
                     <img class="img-fluid" src="assets/img/dots.svg" alt="dots image">
                     <div class="hero__frame">
                         {{-- <img class="img-fluid hero__frame-circle" src="assets/img/circul-1.png" alt="circle image"> --}}
@@ -123,7 +123,7 @@
         <div class="container p-sm-0">
             <div class="row">
 
-                <div class="col-12 col-md-9 col-lg-6" data-aos="fade-left" data-aos-duration="1000">
+                <div class="col-12 col-md-9 col-lg-6 mb-5" data-aos="fade-left" data-aos-duration="1000">
                     <h2 class="about__heading global__heading">
                         Why Better Births Matter
 
@@ -172,8 +172,8 @@
                     </div>
                 </div>
 
-                <div class="col-6 my-auto my-xl-0">
-                    <div class="d-none d-lg-flex gap-4" data-aos="fade-right" data-aos-duration="1000">
+                <div class="col-lg-6 col-12 my-auto my-xl-0">
+                    <div class="d-flex d-lg-flex gap-4" data-aos="fade-right" data-aos-duration="1000">
                         <div class="about__image">
                             <img class="img-fluid" src="assets/img/b5.png" alt="image">
                         </div>
@@ -245,7 +245,7 @@
     <div class="donation global__py pt-50">
         <div class="container p-sm-0">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 d-none d-lg-block position-relative aos-init aos-animate" data-aos="fade-left"
+                <div class="col-12 col-lg-6 mb-3  position-relative aos-init aos-animate" data-aos="fade-left"
                     data-aos-duration="1000">
                     <img class="donation__element" src="assets/img/element.png" alt="image">
                     <div class="donation__img d-flex justify-content-center">

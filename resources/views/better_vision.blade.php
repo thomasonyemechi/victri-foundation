@@ -40,21 +40,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
     <!-- About START -->
     <div class="about global__py">
         <div class="container p-sm-0">
             <div class="row">
-                <div class="col-6 my-auto my-xl-0">
-                    <div class="d-none d-lg-flex gap-4" data-aos="fade-right" data-aos-duration="1000">
+                <div class="col-12 col-lg-6 my-auto my-xl-0">
+                    <div class="d-flex d-lg-flex gap-4" data-aos="fade-right" data-aos-duration="1000">
                         <div class="about__image">
                             <img class="img-fluid" src="assets/img/goal1.png" alt="image">
                         </div>
@@ -199,7 +190,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-6 d-none d-sm-block mt-5 mt-lg-0" data-aos="fade-right" data-aos-duration="1000">
+                <div class="col-lg-6 d-sm-block mt-5 mt-lg-0" data-aos="fade-right" data-aos-duration="1000">
                     <img class="img-fluid" src="assets/img/draw-img.png" alt="image">
                 </div>
             </div>

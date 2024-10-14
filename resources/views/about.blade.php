@@ -51,31 +51,16 @@
                         Our comprehensive approach ensures that no one is left behind, regardless of their circumstances or
                         location.
                     </p>
-                    <div class="donation__mt">
-                        <div class="">
-                            <a href="/about" class="donation__btn global__btn m-0">Learn More</a>
-                        </div>
-                        <div class="donation__video">
-                            <a class="donation__video-btn video__card venobox vbox-item" data-vbtype="video"
-                                href="https://youtu.be/ts8d8kKjHD4">
-                                <i class="fa-solid fa-circle-play donation__video-waves--player"></i>
-                                <div class="donation__video-waves">
-                                    <div class="donation__video-waves--div donation__video-waves--one"></div>
-                                    <div class="donation__video-waves--div donation__video-waves--two"></div>
-                                    <div class="donation__video-waves--div donation__video-waves--three"></div>
-                                </div>
-                            </a>
-                            <h4 class="donation__video-text global__desc">Watch Our Activity</h4>
-                        </div>
-                    </div>
+
                 </div>
-                <div class="col-6 d-none d-lg-block position-relative aos-init mb-5 aos-animate" data-aos="fade-left"
+                <div class="col-lg-6 col-12 d-lg-block position-relative aos-init mb-5 aos-animate" data-aos="fade-left"
                     data-aos-duration="1000">
                     <div class="donation__img d-flex justify-content-center">
                         <img class="img-fluid rounded" src="assets/img/about-1.jpg" alt="image">
                     </div>
                     <img class="donation__element2" src="assets/img/element.png" alt="image">
                 </div>
+
 
 
                 <div class="col-12 col-md-12 col-lg-12 aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
@@ -186,11 +171,11 @@
     <div class="donation global__py pt-50">
         <div class="container p-sm-0">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 d-none d-lg-block position-relative aos-init aos-animate" data-aos="fade-left"
+                <div class="col-lg-6 col-12  d-lg-block position-relative aos-init aos-animate" data-aos="fade-left"
                     data-aos-duration="1000">
                     <img class="donation__element" src="assets/img/element.png" alt="image">
                     <div class="donation__img d-flex justify-content-center">
-                        <img class="img-fluid rounded-circle" src="assets/img/o2.png" alt="image">
+                        <img class="img-fluid rounded-circle" src="assets/img/aab.png" alt="image">
                     </div>
                 </div>
                 <div class="col-12 col-md-9 col-lg-5 aos-init aos-animate" data-aos="fade-right"
@@ -554,5 +539,4 @@
             </div>
         </div>
     </div>
-
 @endsection
